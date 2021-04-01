@@ -1,4 +1,4 @@
-Free Python Games
+Free Python Games!
 =================
 
 `Free Python Games`_ is an Apache2 licensed collection of free Python games
